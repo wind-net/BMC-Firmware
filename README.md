@@ -33,9 +33,11 @@ facilitate most of this functionality.
   - [Linux / Windows](#linux--windows)
   - [OSX](#osx)
   - [Manual](#manual)
+- [Coder](#coder)
   - [Native](#native)
 - [Output](#output)
 - [Development](#development)
+- [TEST](#test)
 
 ## Reporting issues & requesting features
 
@@ -352,3 +354,7 @@ The .gitignore allows for two workign directories while developing.
 
 - tmp
 - wip
+
+## TEST
+
+Hallo
